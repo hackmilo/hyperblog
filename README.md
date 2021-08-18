@@ -4,7 +4,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 [![GIT HUB IMAGE](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG20.png&f=1&nofb=1 "GIT HUB IMAGE")](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG20.png&f=1&nofb=1 "GIT HUB IMAGE")
 
 ## En este curso vemos de todo
->* Todos los comandos de Git
+* Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
